@@ -12,9 +12,8 @@ reach beyond my limit to deliver the highest-quality result.
 
 As a team player, I believe in the importance of actively listening to my team members to altogether
 achieve the goals in each project..
-
-📫 How to reach me: [tungminhvu.github.io](https://tungminhvu.github.io).
 <!--
+📫 How to reach me: [tungminhvu.github.io](https://tungminhvu.github.io).
 **Tungmv1711/Tungmv1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

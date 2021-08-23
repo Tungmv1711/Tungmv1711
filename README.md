@@ -4,10 +4,8 @@
 </a>
 
 
-![](https://img.shields.io/badge/-Python-3626e3?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-MatLab-e5cd0c?style=flat-square&logo=MatLab&logoColor=fff)
-![](https://img.shields.io/badge/-Keras-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
-![](https://img.shields.io/badge/-TensorFlow-e39b26?style=flat-square&logo=TensorFlow&logoColor=fff)
+![](https://img.shields.io/badge/-Java-3626e3?style=flat-square&logo=Java&logoColor=fff)
+![](https://img.shields.io/badge/-Javascript-e39b26?style=flat-square&logo=Javascript&logoColor=fff)
 
 🌱 As a curious, fast learner, I consider responsibility and high-pressure work as essential motivation to
 reach beyond my limit to deliver the highest-quality result.
